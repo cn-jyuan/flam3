@@ -1,0 +1,26 @@
+  * [Introduction](Introduction.md)
+  * [Command Line Tools](CommandLineOverview.md)
+    * [flam3-genome](Flam3Genome.md)
+    * [flam3-render](Flam3Render.md)
+    * [flam3-animate](Flam3Animate.md)
+  * [XML File Format](XMLFileFormat.md)
+  * [Catalog of Variations](Variations.md)
+  * [Genetic Algorithm](GeneticAlgorithm.md)
+  * Animation
+    * [AnimatingFlames](AnimatingFlames.md)
+    * [Interpolation](Interpolation.md)
+    * [MotionElements](MotionElements.md)
+  * Features and Examples
+    * [MotionBlur](MotionBlur.md)
+    * [Advanced MotionBlur](AdvancedMotionBlur.md)
+    * [Density Estimation](DensityEstimation.md)
+    * [GammaThreshold](GammaThreshold.md)
+    * [SpatialFilterExamples](SpatialFilterExamples.md)
+    * [HighlightPower](HighlightPower.md)
+    * [Features New in 3.0](NewFeatures.md)
+  * Designing and Submitting Electric Sheep
+    * [Sheep Design Tips](SheepDesignTips.md)
+    * [How to Make a Good Sheep](GoodSheep.md)
+    * [Troubleshooting submissions](SubmissionTroubleshooting.md)
+    * [Step by Step Guide to Sheep Design](CompleteGuide.md)
+    * DesigningWithApophysis
